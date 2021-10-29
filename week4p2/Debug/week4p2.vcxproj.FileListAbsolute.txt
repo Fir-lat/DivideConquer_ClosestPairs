@@ -1,0 +1,2 @@
+D:\codes\algorithm\week4p2\Debug\week4p2.exe
+D:\codes\algorithm\week4p2\Debug\week4p2.pdb
